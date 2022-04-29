@@ -2,9 +2,9 @@
 
 <p align="center">
   <img
-      length=200
-      height=200
-       src=https://raw.githubusercontent.com/Nekurone/Xorhash.com/main/assets/skull.gif> <!-- Is /Asset-Upload-and-README-generation/assets at time of upload-->
+      length="200"
+      height="200"
+       src="https://raw.githubusercontent.com/Nekurone/Xorhash.com/main/assets/skull.gif"> <!-- Is /Asset-Upload-and-README-generation/assets at time of upload-->
 </p>
 <h1 align="center" ></h1>
 <p align="center"><a href="https://forthebadge.com" target="_blank"><img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Build with <3" /></a>&nbsp;<a href="https://forthebadge.com" target="_blank"><img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/></p>
